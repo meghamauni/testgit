@@ -1,1 +1,1 @@
-echo "test the file at $(date)"
+echo "second file build at $(date)"
